@@ -1,0 +1,32 @@
+Movie: John Wick
+Description: John Wick is a retired assassin who returns back to his old ways after a group of Russian gangsters steal his car and kill a puppy which was gifted to him by his late wife Helen.
+Genre: neo-noir action thriller
+Running Time (minutes): 169
+Main Star: Keanu Reeves
+Start Date: 06/26/2023
+End Date: 07/02/2023
+Screen: 1
+Show Timings:
+10:20am
+12:12pm
+02:20pm
+04:40pm
+06:30pm
+09:30pm
+
+Movie: Avatar: The Way of Water
+Description: It follows a blue-skinned humanoid Na'vi named Jake Sully (Worthington) as he and his family, under renewed human threat, seek refuge with the aquatic Metkayina clan of Pandora, a habitable exomoon on which they live
+Genre: epic science fiction 
+Running Time (minutes): 192
+Main Star: 
+Start Date: 06/26/2023
+End Date: 07/02/2023
+Screen: 2
+Show Timings:
+11:11am
+01:11pm
+03:03pm
+05:50pm
+07:30pm
+09:30pm
+
